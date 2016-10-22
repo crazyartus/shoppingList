@@ -1,1 +1,2 @@
 przykladowy text aby sprawdzic jak zareaguje git
+Kolejny test.
